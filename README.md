@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/99546040/171986997-89e89501-68b1-4c10-b5a2-59a098fa3531.png)
 
 
-📫 How to reach me: 
+📫 Connect with me on: 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/mohd-haroon-qureshi-b19827173/)
 [![Youtube Badge](https://img.shields.io/badge/Email--informational?style=flat&logo=gmail&logoColor=fw0000&color=ff0000)](mailto:qureshiharoon010203@gmail.com)
@@ -24,17 +24,20 @@ Tech Stack
 ![image](https://user-images.githubusercontent.com/99546040/171987347-688c7c3c-ed5f-41e8-a7f6-a6a25b1c59b8.png)
 
 
+About me
+- 🔭 Curious to learn new technologies
+- ⚡ Like to watch movies and go for cycling in free time
 <!--
 **Mohd-Haroon/Mohd-Haroon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
