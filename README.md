@@ -2,7 +2,8 @@
 <h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="50px">, I am Mohd Haroon Qureshi</h1>
 
 ![image](https://user-images.githubusercontent.com/99546040/171987000-fe26969b-68e0-46f4-a8f4-f1cbac07d3d0.png)
-![image](https://user-images.githubusercontent.com/99546040/171986997-89e89501-68b1-4c10-b5a2-59a098fa3531.png)
+![image](https://user-images.githubusercontent.com/99546040/171988117-cbac52b3-551d-4433-8634-49116de5f1d8.png)
+
 
 ![image](https://user-images.githubusercontent.com/99546040/171987895-08e5c7d4-11cf-40e2-a586-9a7c260a1457.png)
 
