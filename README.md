@@ -11,6 +11,16 @@
 [![Youtube Badge](https://img.shields.io/badge/Email--informational?style=flat&logo=gmail&logoColor=fw0000&color=ff0000)](mailto:qureshiharoon010203@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Mohd-Haroon)
 
+Tech Stack
+![image](https://user-images.githubusercontent.com/99546040/171987315-7cbcfcfa-440d-42a3-b94e-6c57a5c049d0.png)
+![image](https://user-images.githubusercontent.com/99546040/171987325-d5d9e7cd-5ed6-463d-bf47-606a3e59719f.png)
+![image](https://user-images.githubusercontent.com/99546040/171987330-6a3a16cc-0a70-42c6-ae97-b8fe3ddecb74.png)
+![image](https://user-images.githubusercontent.com/99546040/171987333-e55171fa-d91c-4f73-bec7-ec638363a8cb.png)
+![image](https://user-images.githubusercontent.com/99546040/171987339-bd5bb2a9-0db0-40c7-95ae-94929f955ece.png)
+![image](https://user-images.githubusercontent.com/99546040/171987343-a7318ad6-43be-4fef-8609-fc248c93b975.png)
+![image](https://user-images.githubusercontent.com/99546040/171987347-688c7c3c-ed5f-41e8-a7f6-a6a25b1c59b8.png)
+
+
 <!--
 **Mohd-Haroon/Mohd-Haroon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
