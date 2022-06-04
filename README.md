@@ -7,6 +7,10 @@
 
 📫 How to reach me: 
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/mohd-haroon-qureshi-b19827173/)
+[![Youtube Badge](https://img.shields.io/badge/Email--informational?style=flat&logo=gmail&logoColor=fw0000&color=ff0000)](mailto:qureshiharoon010203@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Mohd-Haroon)
+
 <!--
 **Mohd-Haroon/Mohd-Haroon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
