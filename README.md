@@ -1,6 +1,11 @@
 ![image](https://user-images.githubusercontent.com/99546040/171986781-085ec010-6f2b-4e60-bdce-ee2ddf36b480.png)
 <h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="50px">, I am Mohd Haroon Qureshi</h1>
 
+<h4 align="center"><i>Passionate and self-motivated aspiring full-stack
+developer.</i></h4>
+<h4 align="center"><i>Specialization in MERN stack with a keen
+interest in learning and working with new technology.</i></h4>
+
 ![image](https://user-images.githubusercontent.com/99546040/171987000-fe26969b-68e0-46f4-a8f4-f1cbac07d3d0.png)
 ![image](https://user-images.githubusercontent.com/99546040/171988117-cbac52b3-551d-4433-8634-49116de5f1d8.png)
 
@@ -15,7 +20,7 @@
 [![Youtube Badge](https://img.shields.io/badge/Email--informational?style=flat&logo=gmail&logoColor=fw0000&color=ff0000)](mailto:qureshiharoon010203@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Mohd-Haroon)
 
-💬 Have a look at my [portfolio](https://mohdharoonportfolio.netlify.app/).
+💬 All of my projects are available at [portfolio](https://mohdharoonportfolio.netlify.app/).
 
 Tech Stack
 
@@ -49,3 +54,4 @@ Here are some ideas to get you started:
 -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohd-Haroon&show_icons=true&locale=en" alt="Mohd-Haroon" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Haroon&" alt="Mohd-Haroon" /></p>
+<a href="https://github.com/Mohd-Haroon"><img src="https://activity-graph.herokuapp.com/graph?username=Mohd-Haroon&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
