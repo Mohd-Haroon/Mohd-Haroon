@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/99546040/171986781-085ec010-6f2b-4e60-bdce-ee2ddf36b480.png)
-<h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="50px">, I am Mohd Haroon Qureshi</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="50px">, I am Mohd Haroon Qureshi</h1>
 
 <h4 align="center"><i>Passionate and self-motivated aspiring full-stack
 developer.</i></h4>
